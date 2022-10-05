@@ -59,7 +59,7 @@ namespace VMS.TPS
 			// Print the output
 			string PlanID = context.PlanSetup.Id;
 			string FieldID = SelectedBeam.Id;
-			MessageBox.Show("In the plan " + PlanID + " the field " + FieldID + " has OTL = " + MeanMlcOpening.ToString() + " mm");
+			MessageBox.Show("In the plan " + PlanID + " the field " + FieldID + " has MMO = " + MeanMlcOpening.ToString() + " mm");
 			
 			
 		}
