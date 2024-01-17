@@ -13,6 +13,9 @@ Scripts provided:
 - OTL: simple script to get introduced to ESAPI. Please follow the youtube tutorial
 - MMO: script to extract the mean mlc opening, which has been found to correlate with portal dosimetry patient specific QA measurements
 
+Library provided:
+- MetricsCalc.cs: calculation of several metrics taking "_IEnumerable<Beam> Beams_" as input. You can implement this within your VisualStudio solution.
+
 For further information, please reach out to our team:
 https://www.usz.ch/fachbereich/radio-onkologie/team/
 
